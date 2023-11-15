@@ -1,6 +1,9 @@
-title: Minimal theme
+title: <p align="center">Manjiri Gajmal
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  
 show_downloads: true
-google_analytics:
+google_analytics: I am currently working on data science related problem
+
 theme: jekyll-theme-minimal
